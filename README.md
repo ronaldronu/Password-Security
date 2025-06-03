@@ -18,11 +18,8 @@ To understand what makes a password strong and test various passwords using onli
 | Password              | Strength Score | Estimated Time to Crack | Tool Used                 |
 |-----------------------|----------------|--------------------------|---------------------------|
 | `apple123`            | Weak (37%)     | A few seconds            | passwordmeter.com         |
-
 | `Cristiano_@`         | Strong (69%)   | Several years            | passwordmeter.com         |
-
 | `Cristiano_@77`       | Very Strong    | 2 million years           | security.org             |
-
 | `RonaldoCristiano_@77`| Very Strong    | 200 million years         | security.org             |
 
 ---
